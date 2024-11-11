@@ -6,8 +6,8 @@
 3. [ Data loading and cleaning](#schema3)
 4. [Exploratory Data Analysis (EDA)](#schema4)
 5. [Clustering with MLlib in PySpark (K-means)](#schema5)
-
-[Resources](#schemaref)
+6. [Conclusion](#schema6)
+7. [Resources](#schemaref)
 
 <hr>
 <a name='schema1'></a>
@@ -239,10 +239,17 @@ Conclusion: Finland is country  more happiness
 
 **11. Cluster interpretation:** Look at the patterns in the clusters. You can see if countries in the same cluster share similarities in factors such as GDP, social support or freedom, which may reveal common trends.
 
+<hr>
+<a name='schema6'></a>
+
+## 6. Conclusion
+North America and ANZ and Western Europe are the happiest areas in this dataset, as they have the highest happiness scores.
 
 
-Conclusion: North America and ANZ and Western Europe are the happiest areas in this dataset, as they have the highest happiness scores.
+
+<hr>
+<a name='schemaref'></a>
 
 
-## Resources
+## 7. Resources
 https://www.kaggle.com/datasets/sazidthe1/global-happiness-scores-and-factors?select=WHR_2023.csv
